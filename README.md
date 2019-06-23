@@ -15,6 +15,7 @@ $servidor = "localhost";
 $usuario = "root";
 $senha = "";
 $dbname = "food_api"
+- Tela inicial: login.php
 # Endpoints e informações Ngrok
 - Link para acessar o localhost: https://ea1d07ce.ngrok.io
 - Link para acessar a pasta do teste: http://ea1d07ce.ngrok.io/testapi/
