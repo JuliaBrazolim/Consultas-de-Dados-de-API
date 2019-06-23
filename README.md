@@ -6,6 +6,8 @@ Foi criada uma aplicação utilizando o framework Bootstrap 4.1, PHP, MySQLi e a
 - Interface Web com Login e Cadastro
 - Acesso ao Banco de Dados com MySqli
 - Tela que consulta uma API
+# API utilizada
+- Zomato: https://developers.zomato.com/documentation?lang=por
 # Configuração do Projeto
 - Executar a query food_api ou importar o arquivo para o phpMyAdmin e assim, criar a tabela necessária.
 - Editar o arquivo conexao.php e config.php
